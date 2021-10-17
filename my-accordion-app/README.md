@@ -1,5 +1,7 @@
 # MyAccordionApp
 
+![alt text](/Users/matthewlister/Desktop/Accordion/my-accordion-app/src/assets/accordion.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
 ## Development server
