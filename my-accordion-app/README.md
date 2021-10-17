@@ -1,29 +1,35 @@
 # MyAccordionApp
 
-![header image](accordion.png)
+![header image](my-accordion-app/src/assets/accordion.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+## My Accordion app
 
-## Development server
+My Accordion app has been created as part of a job application for Unshackled Commerce Technology \
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## How to run the the project\
 
-## Code scaffolding
+To run the project, you need to run ng serve from within a terminal which will run . On the loaded page, you will see my running accordion application. \
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Accordion
 
-## Build
+Multiple expansion-panels can be combined into an accordion. The multi="true" input allows the expansions state to be set independently of each other. When multi="false" (default) just one panel can be expanded at a given time:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Building the project
 
-## Running unit tests
+To build the project, I used the mat-expansion-panelheader code to produce the accordion. I found it to be successful and worked very well to produce the content I needed. The mat-expansion-panel-header shows a summary of the panel content and acts as the control for expanding and collapsing. This header may optionally contain an mat-panel-title and an mat-panel-description, which format the content of the header to align with Material Design specifications.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Design Features
 
-## Running end-to-end tests
+For styling, I used the BEM scss styling to create the design layout displayed on screen. It keeps design minimal and specific. It allows me to create child elements on a level design system. \
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Using a the following colours, I produced a nicely styled accordion application which can be used in other projects going forward.
 
-## Further help
+The following colours were used:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Accordion header colour: background: #33ccff;
+Accordion body color: white;
+Text hover effect within the accordion panel: color: #008080;
+
+## Testing the project
+
+Producing the accordion, I tested each panel as I added them. Once I had the first one created, I was then able to copy and paste the other and test each section as I added them.
