@@ -1,6 +1,6 @@
 # MyAccordionApp
 
-![header image](my-accordion-app/src/assets/accordion.png)
+![header image](..my-accordion-app/src/assets/accordion.png)
 
 ## My Accordion app
 
