@@ -33,3 +33,25 @@ Text hover effect within the accordion panel: color: #008080;
 ## Testing the project
 
 Producing the accordion, I tested each panel as I added them. Once I had the first one created, I was then able to copy and paste the other and test each section as I added them.
+
+One panel added and display \
+
+![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/singgleaccordionimage.png)
+
+One panel added and panel open \
+
+![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/singleaccordionpanelopen.png)
+
+Second panel added and display \
+
+![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpaneladded.png)
+
+Second panel added and panel open \
+
+![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpanelopen.png)
+
+Second panel added with colour displaying when the text is hovered over \
+
+![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpanelopenwithhoverovertet.png)
+
+The testing process I used was done step by step. Once I knew the second panel worked, I was able to copy and add 2 more panels. I then wrote brief text telling the story as to why I'm applying for the role and for which company. \
