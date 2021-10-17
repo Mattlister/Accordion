@@ -10,22 +10,23 @@ describe('AppComponent', () => {
     }).compileComponents();
   });
 
-  it('should create the app', () => {
+  it('create the app', () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'my-accordion-app'`, () => {
+  it(`title 'my-accordion-app'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
     expect(app.title).toEqual('my-accordion-app');
   });
 
-  it('should render title', () => {
+  it('srender title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('my-accordion-app app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('my-accordion-app is working!');
   });
 });
+

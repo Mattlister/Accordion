@@ -1,0 +1,34 @@
+
+/* Header background styling */
+
+.mat-expansion-panel {
+  max-width: 600px;
+  margin: 0rem auto;
+  width: 90%;
+  font-family: "Raleway", sans-serif;
+  background: #f4f4f4;
+}
+
+/* Font colour chance when hovered over */
+
+.mat-expansion-panel:hover {
+  color: #008080;
+}
+
+/* Header panel styling */
+  .mat-expansion-panel-header{
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 1rem 1.5rem;
+    background: #33ccff;
+    color: white;
+    cursor: pointer;
+    transition: .3s ease;
+
+  }
+
+
+
+
+
