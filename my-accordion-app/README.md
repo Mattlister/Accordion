@@ -1,6 +1,6 @@
 # MyAccordionApp
 
-![header image](..my-accordion-app/src/assets/accordion.png)
+![header image](https://github.com/Mattlister/Accordion/blob/e50a535d76f48626c6ecb57962c862f38f23d94f/my-accordion-app/src/assets/accordion.png)
 
 ## My Accordion app
 
