@@ -4,11 +4,11 @@
 
 ## My Accordion app
 
-My Accordion app has been created as part of a job application for Unshackled Commerce Technology \
+My Accordion app has been created as part of a job application for Unshackled Commerce Technology.
 
 ## How to run the the project\
 
-To run the project, you need to run ng serve from within a terminal which will run . On the loaded page, you will see my running accordion application. \
+To run the project, you need to run ng serve from within a terminal which will run . On the loaded page, you will see my running accordion application.
 
 ## Accordion
 
@@ -20,7 +20,7 @@ To build the project, I used the mat-expansion-panelheader code to produce the a
 
 ## Design Features
 
-For styling, I used the BEM scss styling to create the design layout displayed on screen. It keeps design minimal and specific. It allows me to create child elements on a level design system. \
+For styling, I used the BEM scss styling to create the design layout displayed on screen. It keeps design minimal and specific. It allows me to create child elements on a level design system..
 
 Using a the following colours, I produced a nicely styled accordion application which can be used in other projects going forward.
 
@@ -34,24 +34,24 @@ Text hover effect within the accordion panel: color: #008080;
 
 Producing the accordion, I tested each panel as I added them. Once I had the first one created, I was then able to copy and paste the other and test each section as I added them.
 
-One panel added and display \
+One panel added and display.
 
 ![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/singgleaccordionimage.png)
 
-One panel added and panel open \
+One panel added and panel open.
 
 ![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/singleaccordionpanelopen.png)
 
-Second panel added and display \
+Second panel added and display.
 
 ![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpaneladded.png)
 
-Second panel added and panel open \
+Second panel added and panel open.
 
 ![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpanelopen.png)
 
-Second panel added with colour displaying when the text is hovered over \
+Second panel added with colour displaying when the text is hovered over.
 
 ![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpanelopenwithhoverovertet.png)
 
-The testing process I used was done step by step. Once I knew the second panel worked, I was able to copy and add 2 more panels. I then wrote brief text telling the story as to why I'm applying for the role and for which company. \
+The testing process I used was done step by step. Once I knew the second panel worked, I was able to copy and add 2 more panels. I then wrote brief text telling the story as to why I'm applying for the role and for which company.
