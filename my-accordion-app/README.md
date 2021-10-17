@@ -55,3 +55,7 @@ Second panel added with colour displaying when the text is hovered over.
 ![header image](https://github.com/Mattlister/Accordion/blob/9b97c9ed6de8b9d196bebc511fcfbf29717e4686/my-accordion-app/src/assets/secondaccordionpanelopenwithhoverovertet.png)
 
 The testing process I used was done step by step. Once I knew the second panel worked, I was able to copy and add 2 more panels. I then wrote brief text telling the story as to why I'm applying for the role and for which company.
+
+## Visual Similar Design
+
+I'm not sure if I've read this part correct but my coding design and styling is similar to the accordion application. This can also be used in the same way to product the same content.
