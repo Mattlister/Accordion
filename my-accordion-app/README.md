@@ -6,7 +6,7 @@
 
 My Accordion app has been created as part of a job application for Unshackled Commerce Technology.
 
-## How to run the the project\
+## How to run the the project
 
 To run the project, you need to run ng serve from within a terminal which will run . On the loaded page, you will see my running accordion application.
 
